@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App min-h-screen bg-slate-800 flex flex-col">
       <header className="bg-slate-700 text-white p-4 shadow-md ">
-        <h1 className="text-2xl font-semibold text-center">Simple Chatbot</h1>
+        <h1 className="text-2xl font-semibold text-center">
+          Ai Gemini Chatbot
+        </h1>
       </header>
       <main className="flex-grow flex justify-center items-center mt-6">
         <Chatbot />
